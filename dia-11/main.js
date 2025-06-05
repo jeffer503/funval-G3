@@ -58,11 +58,5 @@ console.log(varon);
 numeroGrande = 876986897598656788n;
 console.log(numeroGrande);
 
-simbolo = symbol("day11");
-console.log(simbolo);
-
-nulo = hola;
-console.log(nulo);
-
-indefinida;
-console.log(indefinida);
+let jugar = true;
+let 
