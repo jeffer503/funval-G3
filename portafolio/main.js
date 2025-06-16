@@ -1,1 +1,0 @@
-import { habilidades } from "./habilidades";
